@@ -1,0 +1,23 @@
+.picture {
+    display: inline;
+    margin: 10px;
+}
+
+.gallery img {
+    height: 300px;
+    border: 3px solid #D4EE17;
+    padding: 10px;
+    margin: 20px;
+    width: 250px;
+}
+
+.gallery p {
+    text-align: center;
+    margin-top: 0;
+}
+
+body {
+    text-align: center;
+    background: url(https://s3.envato.com/files/212542380/Dark%20Background%20%20%20%2001_preview1%20.JPG);
+    color: white;
+}
